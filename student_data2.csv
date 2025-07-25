@@ -1,0 +1,327 @@
+school,student_id,level,subject,1st_term,2nd_term,3rd_term,avg_total,device_access,tech_club,personal_device,lab_access,school_ict_exposure,location,state_of_ict_lab
+sch01,sch01-stud01,primary 3,coding,77,79,89,81.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud02,primary 3,coding,82,100,78,86.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud03,primary 3,coding,85,97,85,89,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud04,primary 3,coding,70,90,79,79.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud05,primary 3,coding,87,83,69,79.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud06,primary 3,coding,88,94,78,86.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud07,primary 3,coding,86,97,86,89.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud08,primary 3,coding,94,97,100,97,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud09,primary 3,coding,98,97,100,98.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud10,primary 3,coding,70,100,89,86.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud11,primary 3,coding,64,84,83,77,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud12,primary 3,coding,68,80,69,72.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud13,primary 3,coding,84,76,83,81,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud14,primary 3,coding,78,88,78,81.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud15,primary 3,coding,67,85,81,77.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud16,primary 3,coding,76,93,68,79,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud17,primary 3,coding,93,97,100,96.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud18,primary 3,coding,72,93,83,82.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud19,primary 3,coding,86,89,89,88,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud20,primary 3,coding,63,97,87,82.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud21,primary 3,coding,75,90,90,85,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud22,primary 3,coding,91,97,100,96,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud23,primary 3,coding,84,97,78,86.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud24,primary 3,coding,72,70,69,70.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud25,primary 3,coding,84,83,86,84.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud26,primary 3,coding,95,97,96,96,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud27,primary 3,coding,88,92,87,89,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud28,primary 3,coding,88,95,100,94.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud29,primary 3,coding,86,97,89,90.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud30,primary 3,coding,72,72,90,78,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud31,primary 3,coding,98,97,97,97.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud32,primary 3,coding,79,100,87,88.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud33,primary 3,coding,97,97,96,96.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud34,primary 3,coding,82,97,84,87.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud35,primary 3,coding,82,80,81,81,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud36,primary 3,coding,96,97,80,91,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud37,primary 3,coding,78,94,78,83.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud38,primary 3,coding,95,97,97,96.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud39,primary 3,coding,95,92,84,90.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud40,primary 3,coding,71,88,59,72.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud41,primary 3,coding,97,94,91,94,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud42,primary 3,coding,81,85,75,80.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud43,primary 3,coding,87,91,64,80.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud44,primary 4,coding,90,96,91,92.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud45,primary 4,coding,88,89,88,88.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud46,primary 4,coding,90,95,88,91,yes, not joined,no,high,high,urban,medium
+sch01,sch01-stud47,primary 4,coding,80,85,97,87.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud48,primary 4,coding,85,69,85,79.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud49,primary 4,coding,94,96,88,92.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud50,primary 4,coding,88,100,82,90,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud51,primary 4,coding,88,83,87,86,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud52,primary 4,coding,85,95,81,87,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud53,primary 4,coding,86,82,70,79.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud54,primary 4,coding,76,59,58,64.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud55,primary 4,coding,79,91,77,82.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud56,primary 4,coding,82,90,85,85.66666667,yes, joined,no,high,high,urban,medium
+sch01,sch01-stud57,primary 4,coding,82,89,85,85.33333333,yes, joined,yes,high,high,urban,medium
+sch01,sch01-stud58,primary 4,coding,63,81,63,69,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud59,primary 4,coding,67,86,81,78,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud60,primary 4,coding,79,82,79,80,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud61,primary 4,coding,84,94,85,87.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud62,primary 4,coding,85,85,87,85.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud63,primary 4,coding,78,82,74,78,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud64,primary 4,coding,84,84,77,81.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud65,primary 4,coding,83,83,69,78.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud66,primary 4,coding,92,92,97,93.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud67,primary 4,coding,84,84,89,85.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud68,primary 4,coding,89,89,70,82.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud69,primary 4,coding,83,83,84,83.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud70,primary 4,coding,81,81,76,79.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud71,primary 4,coding,100,100,89,96.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud72,primary 4,coding,75,75,82,77.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud73,primary 4,coding,86,86,66,79.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud74,primary 4,coding,86,86,82,84.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud75,primary 4,coding,92,92,97,93.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud76,primary 4,coding,82,82,71,78.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud77,primary 4,coding,87,97,85,89.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud78,primary 4,coding,91,63,88,80.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud79,primary 4,coding,93,83,87,87.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud80,primary 4,coding,91,94,94,93,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud81,primary 4,coding,90,94,83,89,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud82,primary 4,coding,91,84,75,83.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud83,primary 4,coding,81,87,74,80.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud84,primary 4,coding,80,78,84,80.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud85,primary 4,coding,88,86,60,78,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud86,primary 4,coding,59,63,70,64,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud87,primary 4,coding,70,86,75,77,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud88,primary 4,coding,68,78,70,72,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud89,primary 4,coding,74,80,85,79.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud90,primary 4,coding,88,93,92,91,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud91,primary 4,coding,67,81,85,77.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud92,primary 4,coding,71,79,73,74.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud93,primary 5,coding,56,75,74,68.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud94,primary 5,coding,73,87,86,82,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud95,primary 5,coding,49,85,83,72.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud96,primary 5,coding,63,95,80,79.33333333,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud97,primary 5,coding,89,92,86,89,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud98,primary 5,coding,69,85,79,77.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud99,primary 5,coding,79,77,72,76,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud100,primary 5,coding,63,81,83,75.66666667,yes, not joined,no,high,high,urban,medium
+sch01,sch01-stud101,primary 5,coding,64,68,65,65.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud102,primary 5,coding,64,76,83,74.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud103,primary 5,coding,88,89,86,87.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud104,primary 5,coding,51,68,63,60.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud105,primary 5,coding,50,71,60,60.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud106,primary 5,coding,55,74,64,64.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud107,primary 5,coding,66,72,73,70.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud108,primary 5,coding,73,85,75,77.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud109,primary 5,coding,0,88,81,56.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud110,primary 6,coding,91,97,85,91,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud111,primary 6,coding,58,81,92,77,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud112,primary 6,coding,79,88,73,80,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud113,primary 6,coding,88,92,75,85,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud114,primary 6,coding,72,88,84,81.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud115,primary 6,coding,77,93,87,85.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud116,primary 6,coding,77,78,78,77.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud117,primary 6,coding,85,91,77,84.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud118,,coding,95,96,97,96,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud119,primary 6,coding,77,94,64,78.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud120,primary 6,coding,69,84,83,78.66666667,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud121,primary 6,coding,94,97,88,93,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud122,primary 6,coding,80,100,82,87.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud123,primary 6,coding,76,87,83,82,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud124,primary 6,coding,70,87,76,77.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud125,primary 6,coding,74,77,69,73.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud126,primary 6,coding,93,90,83,88.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud127,primary 6,coding,83,89,80,84,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud128,primary 6,coding,79,94,81,84.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud129,primary 6,coding,80,84,80,81.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud130,primary 6,coding,86,91,92,89.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud131,primary 6,coding,92,89,82,87.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud132,primary 6,coding,71,94,82,82.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud133,primary 6,coding,75,92,86,84.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud134,primary 6,coding,80,100,88,89.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud135,primary 6,coding,77,89,70,78.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud136,primary 6,coding,92,96,91,93,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud137,primary 6,coding,66,97,75,79.33333333,yes,joined,yes,high,high,urban,medium
+sch01,sch01-stud138,primary 6,coding,76,98,75,83,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud139,primary 6,coding,89,89,92,90,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud140,primary 6,coding,83,88,74,81.66666667,yes,joined,no,high,high,urban,medium
+sch01,sch01-stud141,primary 6,coding,85,83,82,83.33333333,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud142,primary 6,coding,73,93,86,84,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud143,primary 6,coding,95,94,90,93,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud144,primary 6,coding,79,92,89,86.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud145,primary 6,coding,64,82,84,76.66666667,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud146,primary 6,coding,95,97,98,96.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud147,primary 6,coding,79,90,89,86,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud148,primary 6,coding,80,100,81,87,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud149,primary 6,coding,86,86,72,81.33333333,yes,not joined,yes,high,high,urban,medium
+sch01,sch01-stud150,primary 6,coding,79,79,84,80.66666667,yes,not joined,no,high,high,urban,medium
+sch01,sch01-stud151,primary 6,coding,60,95,72,75.66666667,yes,not joined,no,high,high,urban,medium
+sch02,sch02-stud01,primary 1,ict,92,96,96,94.66666667,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud02,primary 1,ict,91,92,92,91.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud03,primary 1,ict,90,96,96,94,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud04,primary 1,ict,84,88,88,86.66666667,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud05,primary 1,ict,87,96,96,93,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud06,primary 1,ict,91,92,92,91.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud07,primary 1,ict,92,100,100,97.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud08,primary 1,ict,90,88,88,88.66666667,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud09,primary 1,ict,0,100,100,66.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud10,primary 2,ict,71,92,72,78.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud11,primary 2,ict,93,100,97,96.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud12,primary 2,ict,85,96,87,89.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud13,primary 2,ict,90,88,95,91,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud14,primary 2,ict,89,92,91,90.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud15,primary 2,ict,87,96,88,90.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud16,primary 2,ict,90,96,76,87.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud17,primary 2,ict,87,88,91,88.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud18,primary 2,ict,84,92,90,88.66666667,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud19,primary 2,ict,86,84,90,86.66666667,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud20,primary 2,ict,89,100,89,92.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud21,primary 3,ict,93,88,87,89.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud22,primary 3,ict,83,68,59,70,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud23,primary 3,ict,98,92,79,89.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud24,primary 3,ict,74,88,82,81.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud25,primary 3,ict,84,88,73,81.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud26,primary 3,ict,93,92,82,89,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud27,primary 3,ict,75,96,75,82,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud28,primary 3,ict,77,80,59,72,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud29,primary 3,ict,82,96,75,84.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud30,primary 3,ict,92,84,85,87,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud31,primary 3,ict,72,80,71,74.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud32,primary 3,ict,88,76,63,75.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud33,primary 3,ict,0,80,92,57.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud34,primary 4,ict,69,68,71,69.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud35,primary 4,ict,69,80,79,76,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud36,primary 4,ict,68,68,75,70.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud37,primary 4,ict,88,88,92,89.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud38,primary 4,ict,73,88,80,80.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud39,primary 4,ict,75,92,92,86.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud40,primary 4,ict,91,76,84,83.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud41,primary 4,ict,0,72,80,50.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud42,primary 5,ict,87,80,80,82.33333333,yes,not joined,no,medium,medium,urban,medium
+sch02,sch02-stud43,primary 5,ict,80,64,64,69.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud44,primary 5,ict,79,68,68,71.66666667,yes,not joined,yes,medium,medium,urban,medium
+sch02,sch02-stud45,primary 6,ict,86,88,88,87.33333333,yes,not joined,yes,medium,medium,urban,medium
+sch03,sch03-stud01,SS1,ict,70,92,56,72.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud02,SS1,ict,79,80,77,78.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud03,SS1,ict,84,100,79,87.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud04,SS1,ict,73,100,67,80,yes,not joined,yes,low,low,sub-urban,low
+sch03,sch03-stud05,SS1,ict,61,92,58,70.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud06,SS1,ict,70,100,71,80.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud07,SS1,ict,73,96,65,78,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud08,SS1,ict,68,88,50,68.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud09,SS1,ict,75,100,75,83.33333333,yes,not joined,yes,low,low,sub-urban,low
+sch03,sch03-stud10,SS1,ict,94,96,85,91.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud11,SS1,ict,72,100,75,82.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud12,SS1,ict,77,100,87,88,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud13,SS1,ict,68,92,67,75.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud14,SS1,ict,71,96,71,79.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud15,SS1,ict,76,100,79,85,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud16,SS1,ict,81,100,89,90,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud17,SS1,ict,82,96,92,90,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud18,SS1,ict,81,96,89,88.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud19,SS1,ict,58,96,48,67.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud20,SS1,ict,76,100,62,79.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud21,SS1,ict,79,96,67,80.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud22,SS1,ict,61,84,61,68.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud23,SS1,ict,72,92,63,75.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud24,SS1,ict,68,84,51,67.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud25,SS1,ict,81,100,87,89.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud26,SS1,ict,69,76,61,68.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud27,SS1,ict,0,100,73,57.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud28,SS1,ict,0,92,67,53,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud29,SS1,ict,0,88,59,49,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud30,SS1,ict,0,0,90,30,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud31,SS2,ict,86,100,92,92.66666667,yes,not joined,yes,low,low,sub-urban,low
+sch03,sch03-stud32,SS2,ict,61,80,73,71.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud33,SS2,ict,79,96,83,86,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud34,SS2,ict,71,84,69,74.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud35,SS2,ict,75,92,77,81.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud36,SS2,ict,61,52,77,63.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud37,SS2,ict,74,88,96,86,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud38,SS2,ict,87,88,94,89.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud39,SS2,ict,75,96,93,88,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud40,SS2,ict,75,92,96,87.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud41,SS2,ict,89,92,80,87,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud42,SS2,ict,82,88,73,81,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud43,SS2,ict,52,72,80,68,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud44,SS2,ict,94,100,100,98,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud45,SS2,ict,72,80,75,75.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud46,SS2,ict,77,92,62,77,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud47,JS1,ict,78,64,83,75,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud48,JS1,ict,77,60,86,74.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud49,JS1,ict,86,84,67,79,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud50,JS1,ict,80,76,93,83,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud51,JS1,ict,83,64,92,79.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud52,JS1,ict,47,76,43,55.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud53,JS1,ict,67,56,85,69.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud54,JS1,ict,83,56,89,76,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud55,JS1,ict,92,60,81,77.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud56,JS1,ict,82,92,67,80.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud57,JS1,ict,87,84,100,90.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud58,JS1,ict,87,68,79,78,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud59,JS1,ict,67,64,64,65,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud60,JS1,ict,79,96,68,81,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud61,JS1,ict,92,84,96,90.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud62,JS1,ict,90,96,92,92.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud63,JS1,ict,63,64,59,62,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud64,JS1,ict,74,64,72,70,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud65,JS1,ict,88,96,75,86.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud66,JS1,ict,81,68,36,61.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud67,JS1,ict,85,60,73,72.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud68,JS1,ict,77,64,80,73.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud69,JS1,ict,68,64,77,69.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud70,JS1,ict,87,72,70,76.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud71,JS1,ict,52,52,77,60.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud72,JS1,ict,93,72,77,80.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud73,JS1,ict,76,88,89,84.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud74,JS1,ict,52,84,76,70.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud75,JS1,ict,63,56,68,62.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud76,JS1,ict,70,76,81,75.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud77,JS1,ict,83,76,88,82.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud78,JS1,ict,49,52,50,50.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud79,JS1,ict,0,56,78,44.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud80,JS1,ict,0,60,71,43.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud81,JS1,ict,0,80,85,55,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud82,JS2,ict,73,87,96,85.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud83,JS2,ict,71,78,97,82,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud84,JS2,ict,82,73,100,85,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud85,JS2,ict,69,86,100,85,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud86,JS2,ict,48,72,90,70,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud87,JS2,ict,70,86,100,85.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud88,JS2,ict,84,83,97,88,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud89,JS2,ict,55,62,91,69.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud90,JS2,ict,55,55,80,63.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud91,JS2,ict,50,58,82,63.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud92,JS2,ict,71,80,97,82.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud93,JS2,ict,81,81,100,87.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud94,JS2,ict,44,76,93,71,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud95,JS2,ict,44,52,75,57,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud96,JS2,ict,42,47,81,56.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud97,JS2,ict,70,83,92,81.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud98,JS2,ict,72,88,88,82.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud99,JS2,ict,40,65,61,55.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud100,JS2,ict,75,80,99,84.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud101,JS2,ict,42,70,85,65.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud102,JS2,ict,59,86,89,78,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud103,JS2,ict,0,86,100,62,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud104,JS2,ict,0,59,71,43.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud105,JS2,ict,0,83,92,58.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud106,JS3,ict,70,76,68,71.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud107,JS3,ict,82,83,94,86.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud108,JS3,ict,66,41,84,63.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud109,JS3,ict,83,73,98,84.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud110,JS3,ict,76,32,84,64,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud111,JS3,ict,54,37,78,56.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud112,JS3,ict,80,41,76,65.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud113,JS3,ict,55,33,86,58,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud114,JS3,ict,71,70,74,71.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud115,JS3,ict,80,41,86,69,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud116,JS3,ict,70,83,88,80.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud117,JS3,ict,81,70,100,83.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud118,JS3,ict,76,97,86,86.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud119,JS3,ict,80,37,88,68.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud120,JS3,ict,85,36,84,68.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud121,JS3,ict,70,45,88,67.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud122,JS3,ict,80,70,90,80,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud123,JS3,ict,86,77,96,86.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud124,JS3,ict,51,20,68,46.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud125,JS3,ict,83,97,100,93.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud126,JS3,ict,83,41,82,68.66666667,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud127,JS3,ict,60,70,90,73.33333333,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud128,JS3,ict,57,87,78,74,yes,not joined,no,low,low,sub-urban,low
+sch03,sch03-stud129,JS3,ict,66,70,78,71.33333333,yes,not joined,yes,low,low,sub-urban,low
+sch03,sch03-stud130,JS3,ict,72,28,90,63.33333333,yes,not joined,no,low,low,sub-urban,low
